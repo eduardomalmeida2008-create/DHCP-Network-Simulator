@@ -88,9 +88,7 @@ Configuration results:
 
 Conclusion:
 
-
-A simulated lab was created in Cisco Packet Tracer to model a network using the DHCP protocol. The primary goal was to automate IP address assignment in a secure and reliable manner, ensuring that network users can automatically obtain an IPv4 address, subnet mask, gateway, and DNS server.
-
+A simulated lab was created in Cisco Packet Tracer to model a network using the DHCP protocol. The main objective was to automate IP address assignment in a secure and reliable manner, ensuring that network users could automatically obtain an IPv4 address, a subnet mask, a gateway, and a DNS server. The project implemented hosts with both static and dynamic IP addresses.
 
 Author: Eduardo Almeida
 Project date: March 15, 2026
