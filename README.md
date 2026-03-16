@@ -84,7 +84,7 @@ Why use DHCP?
 
 
 Configuration results:
-![Result](04-IPConfiguration-01.png) [Result](05-IPConfiguration-02.png)
+![Result](04-IPConfiguration-01.png) ![Result2](05-IPConfiguration-02.png)
 
 Conclusion:
 
